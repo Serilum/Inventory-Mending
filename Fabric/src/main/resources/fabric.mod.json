@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "inventorymending",
-  "version": "1.0",
+  "version": "1.1",
 
   "name": "Inventory Mending",
   "description": "Allows mending items inside the inventory to be repaired without being equipped.",
