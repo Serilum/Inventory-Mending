@@ -24,7 +24,7 @@ import java.util.List;
 import java.util.Optional;
 import java.util.function.Predicate;
 
-@Mixin(value = ExperienceOrb.class, priority = 1001)
+@Mixin(value = ExperienceOrb.class, priority = 999)
 public class ExperienceOrbMixin {
     @Unique private static final Predicate<ItemStack> isDamagedPredicate = ItemStack::isDamaged;
 

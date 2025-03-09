@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "inventorymending",
-  "version": "1.1",
+  "version": "1.2",
 
   "name": "Inventory Mending",
   "description": "Allows mending items inside the inventory to be repaired without being equipped.",
@@ -26,7 +26,7 @@
     "fabric": "*",
     "minecraft": ">=1.21",
     "java": ">=21",
-    "collective": ">=7.91"
+    "collective": ">=7.94"
   },
 
   "custom": {
