@@ -21,7 +21,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.function.Predicate;
 
-@Mixin(value = ExperienceOrb.class, priority = 1001)
+@Mixin(value = ExperienceOrb.class, priority = 999)
 public abstract class ExperienceOrbMixin {
     @Shadow protected abstract int xpToDurability(int i);
     @Shadow protected abstract int durabilityToXp(int i);
