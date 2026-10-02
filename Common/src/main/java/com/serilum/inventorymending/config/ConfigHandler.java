@@ -1,7 +1,7 @@
-package com.natamus.inventorymending.config;
+package com.serilum.inventorymending.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.inventorymending.util.Reference;
+import com.serilum.inventorymending.util.Reference;
 
 import java.util.Arrays;
 import java.util.HashMap;
