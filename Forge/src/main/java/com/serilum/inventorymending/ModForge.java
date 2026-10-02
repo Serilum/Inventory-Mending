@@ -1,9 +1,9 @@
-package com.natamus.inventorymending;
+package com.serilum.inventorymending;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.inventorymending.forge.config.IntegrateForgeConfig;
-import com.natamus.inventorymending.util.Reference;
+import com.serilum.inventorymending.forge.config.IntegrateForgeConfig;
+import com.serilum.inventorymending.util.Reference;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.ModLoadingContext;
 import net.minecraftforge.fml.common.Mod;

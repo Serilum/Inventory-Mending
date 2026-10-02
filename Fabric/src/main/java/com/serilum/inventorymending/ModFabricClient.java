@@ -1,7 +1,7 @@
-package com.natamus.inventorymending;
+package com.serilum.inventorymending;
 
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.inventorymending.util.Reference;
+import com.serilum.inventorymending.util.Reference;
 import net.fabricmc.api.ClientModInitializer;
 
 public class ModFabricClient implements ClientModInitializer {

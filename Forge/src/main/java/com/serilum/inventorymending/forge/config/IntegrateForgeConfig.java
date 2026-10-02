@@ -1,7 +1,7 @@
-package com.natamus.inventorymending.forge.config;
+package com.serilum.inventorymending.forge.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.inventorymending.util.Reference;
+import com.serilum.inventorymending.util.Reference;
 import net.minecraftforge.client.ConfigScreenHandler;
 import net.minecraftforge.fml.ModLoadingContext;
 
