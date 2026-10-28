@@ -1,6 +1,6 @@
-package com.natamus.inventorymending;
+package com.serilum.inventorymending;
 
-import com.natamus.inventorymending.config.ConfigHandler;
+import com.serilum.inventorymending.config.ConfigHandler;
 
 public class ModCommon {
 
